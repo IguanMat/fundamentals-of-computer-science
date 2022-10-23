@@ -15,3 +15,5 @@ https://dati.istruzione.it/opendata/opendata/catalogo/elements1/ALUCORSOINDCLAST
   • Calculate the number of all students by gender  
     ▪ Syntax: conta_studenti(dataset) → (M, F)  
   • Save all data to a file in csv format  
+  
+  -I added an optional menu at the end just to call up all the functions more easily-
